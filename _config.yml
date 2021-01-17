@@ -2,4 +2,4 @@ title: GitHub Pages Example Site
 description: Made with Jekyll & the Minima theme
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
