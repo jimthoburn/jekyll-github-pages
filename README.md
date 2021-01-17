@@ -1,7 +1,7 @@
 
 # GitHub Pages Example Site
 
-Made with Jekyll & the Minima theme
+Made with Jekyll & the Minimal theme
 
 To run this project locally, [Installing Ruby and Jekyll](https://jekyllrb.com/docs/installation/) is a good place to start.
 
